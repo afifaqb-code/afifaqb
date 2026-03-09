@@ -34,3 +34,10 @@ Software engineering student focused on solving practical problems. I build thin
 <a href="https://www.youtube.com/@afifaqb" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
+
+---
+
+### 🕹️ Pac-Man Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man" />
+</div>
