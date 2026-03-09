@@ -38,5 +38,5 @@ Software engineering student focused on solving practical problems. I build thin
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Afifa's+Laboratory;Initializing+System+Assets...;Exploring+Logic+%26+Algorithms;Building+Software+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Afifa's+Laboratory" alt="Typing SVG" />
 </p>
